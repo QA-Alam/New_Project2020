@@ -6,7 +6,7 @@ public class TestAgain {
 		// TODO Auto-generated method stub
 		
 		
-		// Hello my fareand how are you?
+		// Hello my friend how are you?
 
 	}
 
